@@ -22,7 +22,7 @@ This page is updated monthly, so revisit it regularly. If you're looking for ite
 
 ## Version 1.46 - September 2024
 
-Download for [Windows](https://aka.ms/AzureConnectedMachineAgent) or [Linux](manage-agent.md#installing-a-specific-version-of-the-agent)
+Download for [Windows](https://download.microsoft.com/download/6/c/0/6c0775bc-9ed7-49af-9637-79653f783062/AzureConnectedMachineAgent.msi) or [Linux](manage-agent.md#installing-a-specific-version-of-the-agent)
 
 ### Fixed
 
