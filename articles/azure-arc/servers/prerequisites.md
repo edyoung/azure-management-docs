@@ -102,6 +102,8 @@ The listed version is supported until the **End of Arc Support Date**. If critic
 | Debian 10 | 1.44  | 07/15/2025 |  | 
 | Ubuntu 16.04 | 1.44  | 07/15/2025 |  | 
 | Azure Linux (CBL-Mariner) 1.0 | 1.44  | 07/15/2025 |  | 
+| CentOS 7 | 1.42 | 05/21/2025 | 
+| CentOS 8 | 1.42 | 05/21/2025 | 
 
 ### Connect new limited support servers
 
